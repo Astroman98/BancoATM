@@ -1,0 +1,12 @@
+@startuml
+
+Title Diagrama de clases cajero automatico ATM.
+
+abstract class ATM {
+
+}
+
+class Banco {
+}
+
+@enduml
